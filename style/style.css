@@ -21,6 +21,7 @@ body {
     border: 1px solid #4a4949;
     border-radius: 10px;
     overflow: hidden;
+    box-shadow: 0 0 10px #626262;
 }
 
 .header-block {
